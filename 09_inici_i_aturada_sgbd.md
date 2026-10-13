@@ -86,7 +86,7 @@ sudo systemctl disable mysql
 1. Inicia MySQL.
 2. Consulta l'estat del servei.
 3. Atura el servei i comprova que no hi ha processos actius.
-4. Edita el fitxer de configuració `my.cnf` per canviar el port al **3307**.
+4. Edita el fitxer de configuració `mysqld.cnf` per canviar el port al **3307**.
 5. Reinicia MySQL amb la comanda correcta.
 6. Verifica el canvi:
    ```bash
