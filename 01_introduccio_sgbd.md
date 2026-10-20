@@ -17,7 +17,7 @@ Un **Sistema Gestor de Bases de Dades (SGBD)** és un conjunt de programes que p
 | **Seguretat** | Protegeixen les dades amb sistemes d'autenticació i autorització. |
 | **Consistència** | Mantenen la coherència de les dades mitjançant mecanismes com les transaccions i els bloquejos. |
 
-## 3. Components d'un SGBD
+## 3. Components d'un SGBD4
 
 1. **Motor de base de dades:** responsable de gestionar l'emmagatzematge i la recuperació de dades.
 2. **Processador de consultes:** interpreta i executa les consultes SQL o d'altres llenguatges.
